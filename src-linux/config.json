@@ -1,42 +1,8 @@
 {
-  "FPS": 140,
-  "comboSignKeys": {},
-  "customCombos": [
-    {
-      "name": "Skirk 170",
-      "hotkey": "mouse_4",
-      "pythonSequence": [
-        "skke",
-        "is_no_key_pressed",
-        "skk2as",
-        "is_no_key_pressed",
-        "skk2as",
-        "is_no_key_pressed",
-        "skk2aq",
-        "is_no_key_pressed",
-        "skk2as",
-        "is_no_key_pressed",
-        "skk2as",
-        "skk3aw",
-        "is_no_key_pressed",
-        "skk2as",
-        "is_no_key_pressed",
-        "skk2as",
-        "is_no_key_pressed",
-        "skk3aw",
-        "is_no_key_pressed",
-        "skk2as",
-        "is_no_key_pressed",
-        "skk2azs",
-        "is_no_key_pressed",
-        "skk3aw",
-        "is_no_key_pressed",
-        "skk2as",
-        "is_no_key_pressed",
-        "skk2as",
-        "is_no_key_pressed",
-        "skk5a"
-      ]
-    }
-  ]
+  "FPS": 60,
+  "comboSignKeys": {
+    "Arlec hex vape c0/1 60f": "mouse_4",
+    "Arlec melt c0/1 60f": "mouse_5"
+  },
+  "customCombos": []
 }
